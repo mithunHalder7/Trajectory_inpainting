@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\adhocmaster\\anaconda3\\envs\\diverging-trajectories\\python.exe",
+    "python.testing.pytestArgs": [
+        "test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
